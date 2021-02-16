@@ -1,0 +1,22 @@
+{
+  "name": "ecommercesitenodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arij-Bouaicha/ecommmercesitenodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arij-Bouaicha/ecommmercesitenodejs/issues"
+  },
+  "homepage": "https://github.com/Arij-Bouaicha/ecommmercesitenodejs#readme",
+  "description": "",
+  "dependencies": {
+    "api.js": "^0.0.5"
+  }
+}
